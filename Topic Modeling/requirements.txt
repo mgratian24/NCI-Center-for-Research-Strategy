@@ -4,4 +4,5 @@ biopython==1.79
 sentence-transformers==3.0.1
 bertopic==0.16.2
 openpyxl==3.1.5
+xlsxwriter==3.2.2
 
