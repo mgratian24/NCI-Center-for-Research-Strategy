@@ -1,5 +1,5 @@
 pandas==2.2.2
-jupyterlab==4.2.3
+jupyterlab>=4.2.5
 biopython==1.79
 sentence-transformers==3.0.1
 bertopic==0.16.2
